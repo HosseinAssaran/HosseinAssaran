@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HosseinAssaran
 - 👀 I’m interested in embedded systems
-- 🌱 I’m currently learning lean startup
+- 🌱 I’m currently working in Tosan Techno
 - 💞️ I’m looking to collaborate on embedded device development
-- 📫 How to reach me haq1366@gmail.com
+- 📫 How to reach me Hossein.assaran@gmail.com
 
 <!---
 HosseinAssaran/HosseinAssaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
