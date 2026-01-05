@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HosseinAssaran
 - 👀 I’m interested in embedded systems
-- 🌱 I’m currently working in Tosan Techno
+- 🌱 I’m currently working in RoniaSoft
 - 💞️ I’m looking to collaborate on embedded device development
 - 📫 How to reach me Hossein.assaran@gmail.com
 
